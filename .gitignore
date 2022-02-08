@@ -1,0 +1,4 @@
+# do not let the repo store or track the following folders
+node_modules/
+example-html/
+mockups/
