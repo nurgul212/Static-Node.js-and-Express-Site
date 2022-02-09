@@ -1,91 +1,91 @@
 
 {
-    "data": {
-        "projects":[
-            {
-                "id": 0,
-                "project_name": "Random Quote Generator",
-                "description": "A program that displays a randomly selected quote each time the user clicks a button. Quotes automatically refreshes every 8 sec if the button is not clicked.",
-                "technologies":[ "JavaScript", "HTML", "CSS", "Github"],
-                "live_link": "https://nurgul212.github.io/A-Random-Quote-Generator/",
-                "github_link": "https://github.com/nurgul212/A-Random-Quote-Generator",
-                "image_urls":[
-                    "randomQuote01.jpg",
-                    "randomQuote02.jpg",
-                    "randomQuote03.jpg"
-                ]
-            },
+    "projects":[
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "A program that displays a randomly selected quote each time the user clicks a button. Quotes automatically refreshes every 8 sec if the button is not clicked.",
+            "technologies":[ "JavaScript", "HTML", "CSS", "Github"],
+            "live_link": "https://nurgul212.github.io/A-Random-Quote-Generator/",
+            "github_link": "https://github.com/nurgul212/A-Random-Quote-Generator",
+            "image_urls":[
+                "/static/images/pagination0.jpg",
+                "/static/images/random1.jpg",
+                "/static/images/random2.jpg",
+                "/static/images/random3.jpg"
+            ]
+        },
 
-            {
-                "id": 1,
-                "project_name": "Data Pagination and Filtering",
-                "description": "A program that displays 9 students data on one page and provides a navigation to jump more items.",
-                "technologies":[ "JavaScript", "HTML", "CSS", "Github"],
-                "live_link": "https://nurgul212.github.io/Data-Pagination-and-Filtering/",
-                "github_link": "https://github.com/nurgul212/Data-Pagination-and-Filtering",
-                "image_urls":[
-                    "randomQuote01.jpg",
-                    "randomQuote02.jpg",
-                    "randomQuote03.jpg"
-                ]
-            },
+        {
+            "id": 1,
+            "project_name": "Data Pagination and Filtering",
+            "description": "A program that displays 9 students data on one page and provides a navigation to jump more items.",
+            "technologies":[ "JavaScript", "HTML", "CSS", "Github"],
+            "live_link": "https://nurgul212.github.io/Data-Pagination-and-Filtering/",
+            "github_link": "https://github.com/nurgul212/Data-Pagination-and-Filtering",
+            "image_urls":[
+                "/static/images/pagination0.jpg",
+                "/static/images/pagination1.jpg",
+                "/static/images/pagination2.jpg",
+                "/static/images/pagination3.jpg"
+            ]
+        },
 
-            {
-                "id": 2,
-                "project_name": "Interactive Form",
-                "description": "A form enhanced with JavaScript and Regex so that is it engaging, interactive, and user-friendly.",
-                "technologies":[ "JavaScript", "Regex", "HTML", "CSS", "Github"],
-                "live_link": "https://nurgul212.github.io/Interactive-Form/",
-                "github_link": "https://github.com/nurgul212/Interactive-Form",
-                "image_urls":[
-                    "randomQuote01.jpg",
-                    "randomQuote02.jpg",
-                    "randomQuote03.jpg"
-                ]
-            },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "A form enhanced with JavaScript and Regex so that is it engaging, interactive, and user-friendly.",
+            "technologies":[ "JavaScript", "Regex", "HTML", "CSS", "Github"],
+            "live_link": "https://nurgul212.github.io/Interactive-Form/",
+            "github_link": "https://github.com/nurgul212/Interactive-Form",
+            "image_urls":[
+                "/static/images/pagination0.jpg",
+                "/static/images/randomQuote02.jpg",
+                "/static/images/randomQuote03.jpg"
+            ]
+        },
 
-            {
-                "id": 3,
-                "project_name": "OOP Game Show App",
-                "description": "A browser-based word guesting game: \"Phrase Hunter\" that a player tries to guess the phrase by selecting individual letters an onscreen keyboard before they run out of attempts.",
-                "technologies":[ "JavaScript", "OOP", "HTML", "CSS", "Github"],
-                "live_link": "https://nurgul212.github.io/OOP-Game-Show-APP/",
-                "github_link": "https://github.com/nurgul212/OOP-Game-Show-APP",
-                "image_urls":[
-                    "randomQuote01.jpg",
-                    "randomQuote02.jpg",
-                    "randomQuote03.jpg"
-                ]
-            },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "A browser-based word guesting game: \"Phrase Hunter\" that a player tries to guess the phrase by selecting individual letters an onscreen keyboard before they run out of attempts.",
+            "technologies":[ "JavaScript", "OOP", "HTML", "CSS", "Github"],
+            "live_link": "https://nurgul212.github.io/OOP-Game-Show-APP/",
+            "github_link": "https://github.com/nurgul212/OOP-Game-Show-APP",
+            "image_urls":[
+                "/static/images/pagination0.jpg",
+                "/static/images/randomQuote02.jpg",
+                "/static/images/randomQuote03.jpg"
+            ]
+        },
 
-            {
-                "id": 4,
-                "project_name": "Public API Request",
-                "description": "A program that creates an employee directory by communicating with a third party API (Application Programming Interface).",
-                "technologies":[ "JavaScript", "API", "HTML", "CSS", "Github"],
-                "live_link": "https://nurgul212.github.io/Public-API-Requests/",
-                "github_link": "https://github.com/nurgul212/Public-API-Requests",
-                "image_urls":[
-                    "randomQuote01.jpg",
-                    "randomQuote02.jpg",
-                    "randomQuote03.jpg"
-                ]
-            },
+        {
+            "id": 4,
+            "project_name": "Public API Request",
+            "description": "A program that creates an employee directory by communicating with a third party API (Application Programming Interface).",
+            "technologies":[ "JavaScript", "API", "HTML", "CSS", "Github"],
+            "live_link": "https://nurgul212.github.io/Public-API-Requests/",
+            "github_link": "https://github.com/nurgul212/Public-API-Requests",
+            "image_urls":[
+                "/static/images/pagination0.jpg",
+                "/static/images/randomQuote02.jpg",
+                "/static/images/randomQuote03.jpg"
+            ]
+        },
 
-            {
-                "id": 5,
-                "project_name": "Interactive Photo Gallery",
-                "description": "This is an interactive, searchable gallery of photos built using HTML, CSS, and JavaScript.",
-                "technologies":[ "JavaScript", "HTML", "CSS", "Github"],
-                "live_link": "https://nurgul212.github.io/photo-gallery-project-5/",
-                "github_link": "https://github.com/nurgul212/photo-gallery-project-5",
-                "image_urls":[
-                    "randomQuote01.jpg",
-                    "randomQuote02.jpg",
-                    "randomQuote03.jpg"
-                ]
-            }
-        ]
-    }
-
+        {
+            "id": 5,
+            "project_name": "Interactive Photo Gallery",
+            "description": "This is an interactive, searchable gallery of photos built using HTML, CSS, and JavaScript.",
+            "technologies":[ "JavaScript", "HTML", "CSS", "Github"],
+            "live_link": "https://nurgul212.github.io/photo-gallery-project-5/",
+            "github_link": "https://github.com/nurgul212/photo-gallery-project-5",
+            "image_urls":[
+                "/static/images/pagination0.jpg",
+                "/static/images/randomQuote02.jpg",
+                "/static/images/randomQuote03.jpg"
+            ]
+        }
+    ]
+    
 }
