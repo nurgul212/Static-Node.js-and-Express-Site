@@ -9,11 +9,16 @@ app.use('/static', express.static('public'));
 // set view engine to pug
 app.set('view engine', 'pug');
 
-// app.get()
+// get home page
 app.get('/', (req, res) => {
     res.render('index', {projects})
 });
 
+// get about page
+
+app.get('/about', (req, res) =>{
+    res.render('about')
+})
 
 const port = process.env.PORT || 8000;
 app.listen(port, () =>{
