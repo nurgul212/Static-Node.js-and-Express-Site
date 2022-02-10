@@ -10,38 +10,40 @@
             "github_link": "https://github.com/nurgul212/A-Random-Quote-Generator",
             "image_urls":[
                 "/static/images/random00.jpg",
-                "/static/images/random1.jpg",
-                "/static/images/random2.jpg",
-                "/static/images/random3.jpg"
+                "/static/images/random01.jpg",
+                "/static/images/random02.jpg",
+                "/static/images/random03.jpg"
             ]
         },
 
         {
             "id": 1,
             "project_name": "Data Pagination and Filtering",
-            "description": "A program that displays 9 students data on one page and provides a navigation to jump more items.",
+            "description": "This project is a data pagination and filtering to displays several pages of student data, and each page displays 9 students. It provides a navigation and search function.",
             "technologies":[ "JavaScript", "HTML", "CSS", "Github"],
             "live_link": "https://nurgul212.github.io/Data-Pagination-and-Filtering/",
             "github_link": "https://github.com/nurgul212/Data-Pagination-and-Filtering",
             "image_urls":[
                 "/static/images/pagination00.jpg",
-                "/static/images/pagination1.jpg",
-                "/static/images/pagination2.jpg",
-                "/static/images/pagination3.jpg"
+                "/static/images/pagination01.jpg",
+                "/static/images/pagination02.jpg",
+                "/static/images/pagination03.jpg"
             ]
         },
 
         {
             "id": 2,
             "project_name": "Interactive Form",
-            "description": "A form enhanced with JavaScript and Regex so that is it engaging, interactive, and user-friendly.",
+            "description": " Full Stack JavaScript developers create forms to collect information from users for nearly every website and application they build. This project is a registration form enhanced with JavaScript and Regex so that it is engaging, interactive, and user-friendly.",
             "technologies":[ "JavaScript", "Regex", "HTML", "CSS", "Github"],
             "live_link": "https://nurgul212.github.io/Interactive-Form/",
             "github_link": "https://github.com/nurgul212/Interactive-Form",
             "image_urls":[
                 "/static/images/interactive00.jpg",
-                "/static/images/randomQuote02.jpg",
-                "/static/images/randomQuote03.jpg"
+                "/static/images/interactive01.jpg",
+                "/static/images/interactive02.jpg",
+                "/static/images/interactive03.jpg"
+                
             ]
         },
 
@@ -54,36 +56,39 @@
             "github_link": "https://github.com/nurgul212/OOP-Game-Show-APP",
             "image_urls":[
                 "/static/images/game00.jpg",
-                "/static/images/randomQuote02.jpg",
-                "/static/images/randomQuote03.jpg"
+                "/static/images/game01.jpg",
+                "/static/images/game02.jpg",
+                "/static/images/game03.jpg"
             ]
         },
 
         {
             "id": 4,
             "project_name": "Public API Request",
-            "description": "A program that creates an employee directory by communicating with a third party API (Application Programming Interface).",
+            "description": "This is an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other. In this project, I used JavaScript to create an employee directory by communicating with a third party API (Application Programming Interface).",
             "technologies":[ "JavaScript", "API", "HTML", "CSS", "Github"],
             "live_link": "https://nurgul212.github.io/Public-API-Requests/",
             "github_link": "https://github.com/nurgul212/Public-API-Requests",
             "image_urls":[
                 "/static/images/api00.jpg",
-                "/static/images/randomQuote02.jpg",
-                "/static/images/randomQuote03.jpg"
+                "/static/images/api01.jpg",
+                "/static/images/api02.jpg",
+                "/static/images/api03.jpg"
             ]
         },
 
         {
             "id": 5,
             "project_name": "Interactive Photo Gallery",
-            "description": "This is an interactive, searchable gallery of photos built using HTML, CSS, and JavaScript.",
+            "description": "Interactive image galleries are a common feature of many websites, from photo sites to e-commerce applications. This is an interactive, searchable gallery of photos built using HTML, CSS, and JavaScript.",
             "technologies":[ "JavaScript", "HTML", "CSS", "Github"],
             "live_link": "https://nurgul212.github.io/photo-gallery-project-5/",
             "github_link": "https://github.com/nurgul212/photo-gallery-project-5",
             "image_urls":[
                 "/static/images/gallery00.jpg",
-                "/static/images/randomQuote02.jpg",
-                "/static/images/randomQuote03.jpg"
+                "/static/images/gallery01.jpg",
+                "/static/images/gallery02.jpg",
+                "/static/images/gallery03.jpg"
             ]
         }
     ]

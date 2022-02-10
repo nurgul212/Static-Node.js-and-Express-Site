@@ -1,0 +1,13 @@
+extends layout.pug 
+
+block content 
+    nav.nav 
+        a(href='/')
+            span &larr;
+            |  Home
+
+    article.portfolio-intro   
+        h3.error-message Oops! It looks like the page you're looking for does not exist. Please try again.  
+        
+            hr
+            p Error Message: #{err}    

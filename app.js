@@ -15,10 +15,19 @@ app.get('/', (req, res) => {
 });
 
 // get about page
-
 app.get('/about', (req, res) =>{
     res.render('about')
 })
+
+//get project page
+app.get('/project/:id',(req, res) =>{
+    res.render('project', {id:req.params.id, projects});
+})
+
+// Error handlers
+
+// 404 handler to catch undefined or non-existent route requests
+
 
 const port = process.env.PORT || 8000;
 app.listen(port, () =>{
