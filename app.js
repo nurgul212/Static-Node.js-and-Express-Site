@@ -26,9 +26,22 @@ app.get('/project/:id',(req, res) =>{
 
 // Error handlers
 
-// 404 handler to catch undefined or non-existent route requests
+// 404 handler to catch undefined or non-existent requests
+app.use((req,res,next) => {
+    const err = new Error();
+    err.status = 404;
+    res.status(404).render('page-not-found', {err: err.status})
+    console.log(err);
+})
+//Error Handling for Global status errors
+app.use((err,req,res,next) => {
+    err.status = 500
+    res.status(500).render('error', {err})
+    console.log(err);
+})
 
 
+// Local Port
 const port = process.env.PORT || 8000;
 app.listen(port, () =>{
     console.log(`The server is running on local host: ${port}!`);

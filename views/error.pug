@@ -6,10 +6,12 @@ block content
             span &larr;
             |  Home
 
-    article.portfolio-intro   
-        h3.error-message Oops! 404 - Not Found. Please try again.  
-        
-            hr
-            p Error Message: #{err}    
+    article.portfolio-intro
+       
+        h3.error-message Oops! Something has gone wrong. Please try again.
 
+        p Error Status: #{err.status} - Internal Server Error   
+        
+        p Error Message: #{err}
+       
     
